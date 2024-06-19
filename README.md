@@ -33,5 +33,3 @@ and open another terminal on client directory
 ```
 npm run start
 ```
-
-Access the web app at http://localhost:3000/
